@@ -45,10 +45,6 @@ To generate faces using GANs, follow these steps:
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 The code in this repository is based on the concepts and techniques discussed in the Course on Udemy by Javier Ideami. Link: https://www.udemy.com/course/generative-creative-ai-from-gans-to-clip-with-python-and-pytorch/
