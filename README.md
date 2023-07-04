@@ -13,15 +13,14 @@ Please make sure to place the dataset in the appropriate directory before runnin
 To run the code in this repository, you need to have the following dependencies installed:
 
 - Python (3.6 or higher)
-- TensorFlow (2.0 or higher)
-- Keras (2.3 or higher)
+- Pytorch
 - NumPy
 - Matplotlib
 
 You can install the required dependencies using pip:
 
 ```shell
-pip install tensorflow keras numpy matplotlib
+pip install torch numpy matplotlib
 ```
 
 ## Usage
